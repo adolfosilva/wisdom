@@ -1,0 +1,5 @@
+"Be liberal in what you accept, and conservative in what you send" - Jon Postel
+"A change in perspective is worth 80 IQ points." - Alan Kay
+"Computer science is no more about computers than astronomy is about telescopes." - Edsger Dijkstra
+"Simplicity does not precede complexity but follows it" - Alan Perlis
+"There are two ways to write error-free programs; only the third one works." - Alan Perlis
