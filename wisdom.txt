@@ -8,3 +8,4 @@
 "As they say, it’s easier to optimize correct code than to correct optimized code." - Joshua Bloch
 "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult." - Tony Hoare
 "Program testing can be used to show the presence of bugs, but never to show their absence!" - Edsger Dijkstra
+"All models are wrong; some models are useful." - George E. P. Box
